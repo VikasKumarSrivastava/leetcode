@@ -16,5 +16,6 @@ class Solution {
         return -1;
     }
 }
+
 //TC O(logN)
 //SC O(1)
