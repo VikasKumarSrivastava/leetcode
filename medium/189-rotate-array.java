@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/rotate-array/description/
 class Solution {
+
     public static void reverse(int[] arr,int start,int end){
         while(start<end){
             int temp=arr[start];
